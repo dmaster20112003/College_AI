@@ -1,1 +1,1 @@
-# College_AI
+# code-prep-gemini-ai-course
